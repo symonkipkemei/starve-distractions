@@ -1,5 +1,0 @@
-#requirements to make this script work
-
-1. pyautogui, just type pip install pyautogui in your terminal or cmd prompt
-2. opencv-python, just type pip install opencv-python in your terminal or cmd prompt
-3. pillow, just type pip install pillow in your terminal or cmd prompt
