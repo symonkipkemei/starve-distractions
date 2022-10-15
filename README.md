@@ -28,7 +28,7 @@ Starving distractions that emanate from your favorite social media platforms .
 
 **usage**
 
-The programm is able to intuitively identify any open browser tabs on any chromium search engine such as: brave, google chrome, microsoft edge and search the respetive logo images in the screenshot folder then close them using a hot key command : "ctrl" + "w"
+The programme is able to intuitively identify any open browser tabs on any chromium search engine such as: brave, google chrome, microsoft edge and search the respective logo images in the screenshot folder then close them using a hot key command : "ctrl" + "w"
 
 
 <TECHNOLOGIES>
@@ -70,7 +70,7 @@ To get this project up and running locally, you must already have the following 
 - run on terminal ```pip install requirements.txt```
 - Take screenshots of the logo of your favorite but distractive social media platform(s).
 - Load/Paste those screenshot logo(s) in the screenshots folder in this directory.
-- You will find some already in the screenshots folder.feel free to ammend/delete some/add.
+- You will find some already in the screenshots folder.Feel free to ammend/delete some/add.
 - run on terminal ```python3 starvation.py   ```
 - Sit back , sip tea/coffee and get things done!
 - if you come across a bug, leave a message here [issues page](https://github.com/symonkipkemei/api-database-chefbook/issues). I will be glad to assist.
