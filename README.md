@@ -67,13 +67,13 @@ To get this project up and running locally, you must already have the following 
 
 - git clone ```https://github.com/symonkipkemei/starve-distractions.git ```
 - Set up and activate the virtual environment.
-- run on terminal ```pip install requirements.txt```
+- run on terminal ```pip install -r requirements.txt```
 - Take screenshots of the logo of your favorite but distractive social media platform(s).
 - Load/Paste those screenshot logo(s) in the screenshots folder in this directory.
 - You will find some already in the screenshots folder.Feel free to ammend/delete some/add.
 - run on terminal ```python3 starvation.py   ```
 - Sit back , sip tea/coffee and get things done!
-- if you come across a bug, leave a message here [issues page](https://github.com/symonkipkemei/api-database-chefbook/issues). I will be glad to assist.
+- If you come across a bug, leave a message here [issues page](https://github.com/symonkipkemei/api-database-chefbook/issues). I will be glad to assist.
 
 
 <ILLUSTRATIONS>
