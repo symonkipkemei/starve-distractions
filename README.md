@@ -13,7 +13,7 @@
 
 <h1 id="intro">Starve Distractions</h1>
 
-![quote](illustrations\quote.jpg)
+![quote](quote.jpg)
 
 **Task**
 
@@ -80,7 +80,7 @@ To get this project up and running locally, you must already have the following 
 
 <h1 id="illus">Illustrations</h1>
 
-![image](illustrations\illu-01.JPG)
+![image](illu.png)
 
 
 
