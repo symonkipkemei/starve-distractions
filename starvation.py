@@ -33,13 +33,14 @@ def screenshot_finder(flag = True):
     while loop:
         for image_path in screenshots_path.iterdir():
             # establish absolute path to images the relative path does not work with pyautogui
-            absolute_image_path = f"{screenshots_path.name}/{image_path.name}"
+            absolute_image_path = str(image_path.absolute())
 
             #locate sceenshot on the single/dual screen
             screenShot = pyautogui.locateCenterOnScreen(image=absolute_image_path, confidence=0.8)
             print(screenShot)
             if screenShot is not None:
                 #close the screen
+                print(f"closing {image_path.name}")
                 pyautogui.hotkey("ctrl", "w")
                 time.sleep(5)
         loop = flag
